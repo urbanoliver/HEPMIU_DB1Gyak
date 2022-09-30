@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T15:51:15.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kPZlfMLDqK2GrntkAmXS" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T15:54:23.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DRnL_F83KCEf20rnF2rb" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1822" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1026" dy="1297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="340" y="-330" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLwgue1h8SCXyNeNyjKR-16" value="MÁV" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-270" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="-500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qLwgue1h8SCXyNeNyjKR-17" value="Kocsi" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="-210" width="100" height="40" as="geometry" />
@@ -57,6 +57,18 @@
         </mxCell>
         <mxCell id="qLwgue1h8SCXyNeNyjKR-32" value="J-F" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qLwgue1h8SCXyNeNyjKR-33" value="F-K" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qLwgue1h8SCXyNeNyjKR-34" value="indulás" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLwgue1h8SCXyNeNyjKR-35" value="érkezés" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qLwgue1h8SCXyNeNyjKR-36" value="állomások" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-410" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
