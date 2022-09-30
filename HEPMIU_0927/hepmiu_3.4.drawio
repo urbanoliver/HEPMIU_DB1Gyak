@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T16:16:36.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NxtfV9e8nydUHWslno-7" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T16:17:34.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nr_QmC1UYYjukssv_zeh" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -67,13 +67,13 @@
             <mxPoint x="430" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Phg0VXZpwHy5WRS7_cgC-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="Phg0VXZpwHy5WRS7_cgC-3" value="szerződés" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Phg0VXZpwHy5WRS7_cgC-4" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="Phg0VXZpwHy5WRS7_cgC-4" value="cég" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="440" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Phg0VXZpwHy5WRS7_cgC-5" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="Phg0VXZpwHy5WRS7_cgC-5" value="ember" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Phg0VXZpwHy5WRS7_cgC-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="Phg0VXZpwHy5WRS7_cgC-3" edge="1">
@@ -94,7 +94,7 @@
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTqox9N2PxnfVqdZwrMt-1" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="HTqox9N2PxnfVqdZwrMt-1" value="aláír" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
