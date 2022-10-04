@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T09:04:06.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="81gTHvRXTce8YAs9VY0G" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T09:04:18.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lJIFpJXX_wym47Z2eQBj" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="130" y="550" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-18" value="neptunkód" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="280" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD1zOImNZWDOkX_LfDJZ-13" target="RD1zOImNZWDOkX_LfDJZ-4">
           <mxGeometry relative="1" as="geometry">
@@ -74,16 +74,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-26" value="neptunkód" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="490" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-27" value="név NN" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-28" value="kredit" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="760" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="760" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-29" value="lezárás módja" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="910" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="910" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RD1zOImNZWDOkX_LfDJZ-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RD1zOImNZWDOkX_LfDJZ-2" target="RD1zOImNZWDOkX_LfDJZ-26">
           <mxGeometry relative="1" as="geometry">
