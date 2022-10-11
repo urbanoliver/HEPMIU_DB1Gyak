@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T09:14:19.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="I943MytmtoOGVOXVd_cO" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T09:14:47.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="m6nrvOHsBQkCG_mcJaNp" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1822" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="-160" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6gMAkujk3P0K6vXCGeZ-3" value="Bérlet" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="250" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6gMAkujk3P0K6vXCGeZ-4" value="Járművek" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="-150" width="100" height="40" as="geometry" />
+          <mxGeometry x="-160" y="-150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6gMAkujk3P0K6vXCGeZ-5" value="Sofőr" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-150" width="100" height="40" as="geometry" />
+          <mxGeometry x="350" y="-150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6gMAkujk3P0K6vXCGeZ-6" value="Jogosítvány" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="-160" width="120" height="60" as="geometry" />
@@ -106,7 +106,7 @@
             <mxPoint x="540" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M6gMAkujk3P0K6vXCGeZ-30" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6gMAkujk3P0K6vXCGeZ-28" target="M6gMAkujk3P0K6vXCGeZ-3">
+        <mxCell id="M6gMAkujk3P0K6vXCGeZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERone;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6gMAkujk3P0K6vXCGeZ-28" target="M6gMAkujk3P0K6vXCGeZ-3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="260" y="60" as="sourcePoint" />
             <mxPoint x="360" y="-40" as="targetPoint" />
