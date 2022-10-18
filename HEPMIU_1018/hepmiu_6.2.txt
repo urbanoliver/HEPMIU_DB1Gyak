@@ -1,0 +1,31 @@
+CREATE TABLE tanfolyam 
+(tkod INT PRIMARY KEY,
+ar INT, 
+tipus CHAR(20),
+megnevezes VARCHAR(20));
+
+
+CREATE TABLE resztvevo
+(tajszam CHAR(13),
+nev CHAR(20),
+lakcim VARCHAR(50),
+PRIMAYR KEY(tajszam)); 
+
+CREATE TABLE befizetes
+(diak INT, kurzus INT, befizetes INT,
+FOREIGN KEY(diak) REFERENCES resztvevo,
+FOREIGN KEY(kurzus) REFERENCES (tanfolyam)
+
+
+
+
+
+CREATE TABLE termekek (tkod INT PRIMARY KEY, nev VARCHAR2(50) NOT NULL, ear INT
+CHECK (EAR > 0), kategoria CHAR(20));
+
+
+INSERT INTO termekek VALUES (1,’lapát’, 2000,’K1’);
+INSERT INTO termekek VALUES (2,’seprû’, 4000,’K1’);
+INSERT INTO termekek VALUES (3,’mosogató gél’, 1500,’K2’);
+INSERT INTO termekek VALUES (4,’szappan’, 1000,’K2’);
+INSERT INTO termekek VALUES (5,’pohár’, 2400,’K3’);
