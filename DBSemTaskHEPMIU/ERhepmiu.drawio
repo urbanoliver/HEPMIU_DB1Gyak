@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T15:55:29.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gkhaOb-MhKpAIJhORm1C" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T15:57:36.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7QReeMQJjCPrUrW-Ypr-" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,6 +267,12 @@
             <mxPoint x="570" y="610" as="sourcePoint" />
             <mxPoint x="730" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_7Anegimoyhtmtky0yuV-67" value="Emberek" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1540" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_7Anegimoyhtmtky0yuV-68" value="sorozás" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
