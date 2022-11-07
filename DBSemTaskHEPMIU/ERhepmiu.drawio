@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T16:24:28.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NQpL-3MasRlI7yIm8esP" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T16:24:37.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UJ2NM_xm8DbHKeketXN3" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1381" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
           <mxGeometry x="80" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_7Anegimoyhtmtky0yuV-75" value="létszám" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="410" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_7Anegimoyhtmtky0yuV-76" value="Szolgálat helye" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="580" width="100" height="40" as="geometry" />
@@ -305,7 +305,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_7Anegimoyhtmtky0yuV-82" value="Repülők száma" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_7Anegimoyhtmtky0yuV-83" value="Szföldi járművek/Tankok száma" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="360" width="100" height="40" as="geometry" />
@@ -355,7 +355,7 @@
             <mxPoint x="470" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Anegimoyhtmtky0yuV-92" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_7Anegimoyhtmtky0yuV-7" target="_7Anegimoyhtmtky0yuV-75">
+        <mxCell id="_7Anegimoyhtmtky0yuV-92" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_7Anegimoyhtmtky0yuV-7" target="_7Anegimoyhtmtky0yuV-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="210" as="sourcePoint" />
             <mxPoint x="470" y="210" as="targetPoint" />
