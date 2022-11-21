@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T18:21:41.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4Qc-44WP8W6DotKGp9EW" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T18:22:38.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="68PYzHQ-yaoBUx-dPA15" version="20.5.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="432" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -492,6 +492,12 @@
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lbU3FmjVUX4WFI3qrO2V-50" value="irányítja" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1290" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="lbU3FmjVUX4WFI3qrO2V-51" value="kinevezési időtartam(int)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="lbU3FmjVUX4WFI3qrO2V-50">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
