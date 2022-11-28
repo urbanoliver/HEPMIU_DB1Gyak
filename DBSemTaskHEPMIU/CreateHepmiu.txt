@@ -1,5 +1,5 @@
 CREATE TABLE Hadsereg(
-hadseregID VARCHAR(2) PRIMARY KEY,
+hadseregID VARCHAR(2) PRIMARY KEY NOT NULL,
 létszám int,
 orszagNev VARCHAR(15) NOT NULL,
 fejlettség VARCHAR(20) NOT NULL,
@@ -9,21 +9,24 @@ védekezés VARCHAR(20) NOT NULL,
 
 CREATE TABLE Tengerészet(
 TID VARCHAR(2) PRIMARY KEY,
+sorszámFK VARCHAR(6) NOT NULL,
 létszám int,
 hajókSzáma int,
-FOREIGN KEY(sorszam) REFERENCES Katonák);
+FOREIGN KEY(sorszámFK) REFERENCES Katonák(sorszám));
 
 CREATE TABLE SzárazföldiErők(
 SzEID VARCHAR(2) PRIMARY KEY,
+sorszámFK VARCHAR(6) NOT NULL,
 létszám int,
 SzföldiJárművekSzáma int,
-FOREIGN KEY(sorszam) REFERENCES Katonák);
+FOREIGN KEY(sorszámFK) REFERENCES Katonák(sorszám));
 
 CREATE TABLE Légierő(
 LegID VARCHAR(2) PRIMARY KEY,
+sorszámFK VARCHAR(6) NOT NULL,
 létszám int,
 RepülőkSzáma int,
-FOREIGN KEY(sorszam) REFERENCES Katonák);
+FOREIGN KEY(sorszámFK) REFERENCES Katonák(sorszám));
 
 
 CREATE TABLE Főparancsnok(
@@ -31,32 +34,34 @@ sorszám VARCHAR(6) PRIMARY KEY,
 név VARCHAR(30) NOT NULL,
 életkor int,
 SzolgIdő int,
-rang VARCHAR(20) NOT NULL,
+rang VARCHAR(20) NOT NULL
 );
 
 
 CREATE TABLE Tisztek(
 sorszám VARCHAR(6) PRIMARY KEY,
+sorszámFK VARCHAR(6) NOT NULL,
 név VARCHAR(30) NOT NULL,
 életkor int,
 SzolgIdő int,
 rang VARCHAR(20) NOT NULL,
-FOREIGN KEY(sorszam) REFERENCES Főparancsnok);
+FOREIGN KEY(sorszámFK) REFERENCES Főparancsnok(sorszám));
 
 CREATE TABLE Katonák(
+sorszámFK VARCHAR(6) NOT NULL,
 sorszám VARCHAR(6) PRIMARY KEY,
 név VARCHAR(30) NOT NULL,
 életkor int,
 SzolgIdő int,
 rang VARCHAR(20) NOT NULL,
 SzolgHely VARCHAR(15) NOT NULL,
-FOREIGN KEY(sorszam) REFERENCES Tisztek);
+FOREIGN KEY(sorszámFK) REFERENCES Tisztek(sorszám));
 
 CREATE TABLE irányít(
+hadseregID_FK VARCHAR(2) NOT NULL,
+sorszámFK VARCHAR(6) NOT NULL,
 kinevIdőtartama int,
-FOREIGN KEY(sorszam) REFERENCES Főparancsnok,
-FOREIGN KEY(hadsregID) REFERENCES Hadsereg);
-
-
-
+FOREIGN KEY(hadseregID_FK) REFERENCES Hadsereg(hadseregID),
+FOREIGN KEY(sorszámFK) REFERENCES Főparancsnok(sorszám)
+);
 
