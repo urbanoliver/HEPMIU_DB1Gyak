@@ -1,0 +1,39 @@
+insert into Hadsereg values('1.', 5000,'Hungary', 'közepes','gyenge', 'erős','alacsony');
+insert into Hadsereg values('2.', 2500,'Hungary', 'nagy','erős', 'erős','magas');
+insert into Hadsereg values('3.', 8000,'Hungary', 'nagy','erős', 'közepes','magas');
+
+
+insert into Főparancsnok values('255614', 'Kovács János', 55, 37, 'tábornok');
+
+insert into Tisztek values('785641','255614', 'Tóth Tibor', 40, 20, 'százados');
+insert into Tisztek values('457214','255614', 'Német Zoltán', 38, 18, 'hadnagy');
+insert into Tisztek values('562345','255614', 'Kis Endre', 42, 18, 'főhadnagy');
+
+insert into katonák values('785641','451243','Fekete Nándor', 25, 5, 'őrmester','SzárazföldiErők');
+insert into katonák values('785641','478632','Benkó Martin', 23, 3, 'tizedes','SzárazföldiErők');
+insert into katonák values('785641','447855','Erdélyi Richárd', 26, 8, 'zászlós','SzárazföldiErők');
+
+
+insert into katonák values('457214','788521','Győrffy János', 35, 12, 'őrmester','Tengerészet');
+insert into katonák values('457214','784123','Győrffy János', 28, 10, 'szakaszvezető','Tengerészet');
+insert into katonák values('457214','235468','Sági Balázs', 32, 13, 'tizedes','Tengerészet');
+
+insert into katonák values('562345','743652','Sánta Levente', 26, 6, 'őrmester','Légierő');
+insert into katonák values('562345','365489','Fekete István', 30, 10, 'zászlós','Légierő');
+insert into katonák values('562345','421563','Ujváry Fülöp', 37, 16, 'őrmester','Légierő');
+
+
+insert into SzárazföldiErők values ('8.','451243',3500,250);
+insert into SzárazföldiErők values ('5.','478632',3000,200);
+insert into SzárazföldiErők values ('6.',447855,2000,150);
+
+insert into Légierő values('4.','743652',250,75);
+insert into Légierő values('1.','365489',200,50);
+insert into Légierő values('2.','421563',100,40);
+
+
+insert into Tengerészet values('2.','788521',500, 25);
+insert into Tengerészet values('6.','784123',600, 25);
+insert into Tengerészet values('4.','235468',200, 10);
+
+insert into irányít values('2.','255614',5);
