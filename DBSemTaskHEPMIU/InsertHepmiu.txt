@@ -13,10 +13,21 @@ insert into katonák values('785641','451243','Fekete Nándor', 25, 5, 'őrmeste
 insert into katonák values('785641','478632','Benkó Martin', 23, 3, 'tizedes','SzárazföldiErők');
 insert into katonák values('785641','447855','Erdélyi Richárd', 26, 8, 'zászlós','SzárazföldiErők');
 
+insert into katonák values('785641','457863','Budai Soma', 23, 2, 'közlegény','SzárazföldiErők');
+insert into katonák values('785641','423658','Szabó József', 30, 10, 'zászlós','SzárazföldiErők');
+insert into katonák values('785641','965874','Makói István', 27, 8, 'tizedes','SzárazföldiErők');
+
+insert into katonák values('785641','784125','Nagy Adrián', 19, 1, 'közlegény','SzárazföldiErők');
+insert into katonák values('785641','325416','Sebők Árpád', 29, 11, 'zászlós','SzárazföldiErők');
+insert into katonák values('785641','698532','Szegedi József', 19, 1, 'közlegény','SzárazföldiErők');
 
 insert into katonák values('457214','788521','Győrffy János', 35, 12, 'őrmester','Tengerészet');
 insert into katonák values('457214','784123','Győrffy János', 28, 10, 'szakaszvezető','Tengerészet');
 insert into katonák values('457214','235468','Sági Balázs', 32, 13, 'tizedes','Tengerészet');
+
+insert into katonák values('457214','635478','Tóth Krisztián', 29, 10, 'zászlós','Tengerészet');
+insert into katonák values('457214','963254','Szabó Endre ', 22, 4, 'közlegény','Tengerészet');
+insert into katonák values('457214','865412','Kis János ', 26, 6, 'közlegény','Tengerészet');
 
 insert into katonák values('562345','743652','Sánta Levente', 26, 6, 'őrmester','Légierő');
 insert into katonák values('562345','365489','Fekete István', 30, 10, 'zászlós','Légierő');
