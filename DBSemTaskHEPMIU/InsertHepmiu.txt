@@ -37,3 +37,6 @@ insert into Tengerészet values('6.','784123',600, 25);
 insert into Tengerészet values('4.','235468',200, 10);
 
 insert into irányít values('2.','255614',5);
+
+alter table Hadsereg
+add column Pozíció VARCHAR(20) NOT NULL after ütőképesség;
